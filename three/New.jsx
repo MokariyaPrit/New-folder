@@ -3,7 +3,7 @@ import React from 'react'
 function New() {
   return (
     <div>
-        New
+      jay shree ram
     </div>
   )
 }
