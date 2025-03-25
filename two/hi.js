@@ -1,1 +1,1 @@
-console.log("priaa")
+console.log("aaa")
