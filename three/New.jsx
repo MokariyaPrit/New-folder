@@ -4,6 +4,7 @@ function New() {
   return (
     <div>
       jay shree ram
+      jay shree ram
     </div>
   )
 }
