@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 console.log("prit")
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
 console.log("prit")
@@ -20,4 +21,8 @@ console.log("prit")
 =======
 console.log("aaa")
 
+>>>>>>> Stashed changes
+=======
+console.log("prit")
+console.log("prit")
 >>>>>>> Stashed changes
